@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HPggV2I.jpg"},
+  {"desc2":"The Skibidi Toilet Game Online Mod is a unique modification designed to enhance the experience of using the toilet","photo2":"https://iili.io/HPggGrN.jpg"},
+  {"desc3":" Inspired by the popular "Skibidi" dance trend, this mod incorporates elements of rhythm-based gameplay and incorporates them into the bathroom environment","photo3":"https://iili.io/HPgg1BR.jpg"},
+  {"desc4":"Players are required to perform specific dance moves or complete quick-time events in sync with the game's instructions, all while attending to their bathroom needs.","photo4":"https://iili.io/HPggE1p.jpg"},
+  {"desc5":"The mod typically operates through a smartphone application that connects to the user's toilet","photo5":"https://iili.io/HPgS4FS.jpg"},
+  {"descd":" The app provides real-time feedback and tracks the player's performance, encouraging them to improve their skills and achieve high scores","photod":"https://iili.io/HPggXkX.jpg"}
    ]
  
 }
